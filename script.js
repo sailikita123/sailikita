@@ -21,5 +21,6 @@ function handleSubmit(e) {
   const status = document.getElementById("form-status");
   if (!status) return;
 
-  status.textContent = "Thanks for reaching out! Please email me directly at sailikita@gmail.com and I will respond soon.";
+  status.textContent = "Thanks for reaching out! Please email me directly at sailikitas@gmail.com and I will respond soon.";
 }
+
