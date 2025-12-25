@@ -24,3 +24,4 @@ function handleSubmit(e) {
   status.textContent = "Thanks for reaching out! Please email me directly at sailikitas@gmail.com and I will respond soon.";
 }
 
+
